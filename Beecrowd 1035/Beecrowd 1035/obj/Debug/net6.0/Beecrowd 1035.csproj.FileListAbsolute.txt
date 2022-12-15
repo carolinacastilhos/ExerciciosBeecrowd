@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\bin\Debug\net6.0\Beecrowd 1035.exe
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\bin\Debug\net6.0\Beecrowd 1035.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\bin\Debug\net6.0\Beecrowd 1035.runtimeconfig.json
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\bin\Debug\net6.0\Beecrowd 1035.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\bin\Debug\net6.0\Beecrowd 1035.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\obj\Debug\net6.0\Beecrowd 1035.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\obj\Debug\net6.0\Beecrowd 1035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\obj\Debug\net6.0\Beecrowd 1035.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\obj\Debug\net6.0\Beecrowd 1035.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\obj\Debug\net6.0\Beecrowd 1035.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\obj\Debug\net6.0\Beecrowd 1035.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\obj\Debug\net6.0\refint\Beecrowd 1035.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\obj\Debug\net6.0\Beecrowd 1035.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\obj\Debug\net6.0\Beecrowd 1035.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1035\Beecrowd 1035\obj\Debug\net6.0\ref\Beecrowd 1035.dll

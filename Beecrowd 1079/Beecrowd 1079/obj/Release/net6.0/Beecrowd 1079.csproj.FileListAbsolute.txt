@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\bin\Release\net6.0\Beecrowd 1079.exe
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\bin\Release\net6.0\Beecrowd 1079.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\bin\Release\net6.0\Beecrowd 1079.runtimeconfig.json
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\bin\Release\net6.0\Beecrowd 1079.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\bin\Release\net6.0\Beecrowd 1079.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\obj\Release\net6.0\Beecrowd 1079.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\obj\Release\net6.0\Beecrowd 1079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\obj\Release\net6.0\Beecrowd 1079.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\obj\Release\net6.0\Beecrowd 1079.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\obj\Release\net6.0\Beecrowd 1079.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\obj\Release\net6.0\Beecrowd 1079.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\obj\Release\net6.0\refint\Beecrowd 1079.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\obj\Release\net6.0\Beecrowd 1079.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\obj\Release\net6.0\Beecrowd 1079.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1079\Beecrowd 1079\obj\Release\net6.0\ref\Beecrowd 1079.dll

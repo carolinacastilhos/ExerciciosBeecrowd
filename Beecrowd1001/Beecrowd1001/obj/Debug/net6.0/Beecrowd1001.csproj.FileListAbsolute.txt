@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\obj\Debug\net6.0\Beecrowd1001.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\obj\Debug\net6.0\Beecrowd1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\obj\Debug\net6.0\Beecrowd1001.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\obj\Debug\net6.0\Beecrowd1001.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\obj\Debug\net6.0\Beecrowd1001.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\bin\Debug\net6.0\Beecrowd1001.exe
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\bin\Debug\net6.0\Beecrowd1001.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\bin\Debug\net6.0\Beecrowd1001.runtimeconfig.json
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\bin\Debug\net6.0\Beecrowd1001.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\bin\Debug\net6.0\Beecrowd1001.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\obj\Debug\net6.0\Beecrowd1001.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\obj\Debug\net6.0\refint\Beecrowd1001.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\obj\Debug\net6.0\Beecrowd1001.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\obj\Debug\net6.0\Beecrowd1001.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd1001\Beecrowd1001\obj\Debug\net6.0\ref\Beecrowd1001.dll

@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\bin\Debug\net6.0\Beecrowd 1009.exe
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\bin\Debug\net6.0\Beecrowd 1009.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\bin\Debug\net6.0\Beecrowd 1009.runtimeconfig.json
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\bin\Debug\net6.0\Beecrowd 1009.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\bin\Debug\net6.0\Beecrowd 1009.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\obj\Debug\net6.0\Beecrowd 1009.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\obj\Debug\net6.0\Beecrowd 1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\obj\Debug\net6.0\Beecrowd 1009.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\obj\Debug\net6.0\Beecrowd 1009.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\obj\Debug\net6.0\Beecrowd 1009.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\obj\Debug\net6.0\Beecrowd 1009.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\obj\Debug\net6.0\refint\Beecrowd 1009.dll
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\obj\Debug\net6.0\Beecrowd 1009.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\obj\Debug\net6.0\Beecrowd 1009.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Área de Trabalho\csharp\VS\Imashapcoders\Beecrowd 1009\Beecrowd 1009\obj\Debug\net6.0\ref\Beecrowd 1009.dll
